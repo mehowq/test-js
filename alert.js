@@ -1,1 +1,3 @@
-alert("Hello! I am an alert box!");
+<script>
+  alert("Hello! I am an alert box!");
+</script>
